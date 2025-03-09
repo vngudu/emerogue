@@ -1,5 +1,5 @@
 gText_Birch_Welcome::
-	.string "Hello!\p"
+	.string "Hallo!\p"
 	.string "$"
 
 gText_Birch_Pokemon::
